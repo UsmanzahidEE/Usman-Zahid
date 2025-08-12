@@ -8,10 +8,9 @@
 
 ---
 
-## 🔨 What I’m working on
-- Developing an **IoT-based regenerative braking system** for e-bikes.
-- Designing and simulating **power electronic converters** (buck, boost, buck-boost).
-- Collaborating on projects involving **embedded systems and automation**.
+## 🔨 Projects I’ve Worked On
+- **IoT-based Regenerative Braking System** for e-bikes (Final Year Project)
+- **Buck-Boost Converter Design** for renewable energy applications
 
 ---
 
@@ -38,7 +37,7 @@
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Proteus_Logo.png" width="40" height="40"/>
+<img src="https://i.imgur.com/j4Z8N6t.png" width="40" height="40" alt="Proteus Logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </p>
